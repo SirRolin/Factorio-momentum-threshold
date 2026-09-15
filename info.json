@@ -1,0 +1,9 @@
+{
+  "name": "sir-rolins-momentum-threshold",
+  "version": "0.1.0",
+  "title": "Momentum Modules - Threshold",
+  "author": "Sir Rolin",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0", "sir-rolins-momentum-modules >= 0.2.0", "? space-age", "? quality"],
+  "description": "Adds threshold momentum modules that switch effects at full momentum: Prod/Speed, Efficiency/Speed, Quality/Speed and Quality/Productivity."
+}
